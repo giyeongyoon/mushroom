@@ -1,0 +1,8 @@
+train: /kaggle/working/dataset/images/train/
+val: /kaggle/working/dataset/images/val/
+test: /kaggle/working/dataset/images/val/
+
+# number of classes
+nc: 1
+# class names
+names: [ '표고' ]
